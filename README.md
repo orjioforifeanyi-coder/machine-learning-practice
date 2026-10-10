@@ -1,31 +1,40 @@
+Student Score Prediction
 
-# Machine Learning Practice 🚀
+About the Project
 
-Hi! I'm an aspiring Machine Learning Engineer from Nigeria, currently learning Python, Artificial Intelligence, and Machine Learning.
+This is my first Machine Learning project, built using Python. It predicts a student's score based on the number of hours studied.
 
-👨‍💻 About Me
-
-- 🌱 Learning Python and Machine Learning.
-- 📊 Practising data analysis and model building.
-- 🧰 Exploring NumPy, Pandas, and scikit-learn.
-- 🎯 Goal: Build practical projects and grow my skills in AI and Machine Learning.
-
-🛠️ Technologies I'm Learning
+Technologies Used
 
 - Python
-- NumPy
 - Pandas
-- scikit-learn
-- Git and GitHub
+- Scikit-learn
 
-📂 Projects
+Machine Learning Algorithm
 
-This repository contains my learning exercises, Python practice, and future Machine Learning projects.
+Linear Regression
 
-More projects will be added as I continue learning!
+How It Works
 
-🤝 Connect
+1. Creates a small dataset containing study hours and student scores.
+2. Organizes the data using Pandas.
+3. Trains a Linear Regression model using Scikit-learn.
+4. Predicts a score for a student who studies for 9 hours.
 
-Thanks for visiting my repository. Feel free to follow my learning journey and share helpful feedback.
+Example Output
 
-⭐ If you find my progress interesting, you can star this repository!
+Student Score Prediction
+Hours studied: 9
+Predicted score: 94.46
+
+What I Learned
+
+- Creating and organizing a dataset.
+- Selecting input features and target values.
+- Training a Linear Regression model.
+- Making predictions with a trained model.
+
+Author
+
+Beginner Python and Machine Learning learner.
+
