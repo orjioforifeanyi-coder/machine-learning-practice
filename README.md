@@ -38,3 +38,32 @@ Author
 
 Beginner Python and Machine Learning learner.
 
+## Student Score Prediction
+
+A Machine Learning project that predicts student scores based on study hours using Linear Regression.
+
+### Technologies Used
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+
+### What I Practised
+- Data preparation
+- Train-test splitting
+- Model training and prediction
+- Model evaluation using MAE, MSE, RMSE, and R²
+- Data visualization
+
+### Results
+- MAE: 3.00
+- MSE: 11.25
+- RMSE: 3.35
+- R²: 0.97
+
+### Project Notebook
+[View the Jupyter Notebook](./student_score_prediction.ipynb)
+
+*Note: This project uses a small sample dataset for learning purposes.*
